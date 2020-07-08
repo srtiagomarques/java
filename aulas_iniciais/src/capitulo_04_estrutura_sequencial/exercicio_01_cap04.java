@@ -3,7 +3,7 @@ package capitulo_04_estrutura_sequencial;
 import java.util.Locale;
 import java.util.Scanner;
 
-public class exercicio_01 {
+public class exercicio_01_cap04 {
     public static void main(String[] args) {
 
 //        Faça um programa para ler dois valores inteiros, e depois mostrar na tela a soma desses números com uma
