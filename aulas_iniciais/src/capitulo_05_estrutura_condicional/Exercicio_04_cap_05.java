@@ -3,7 +3,7 @@ package capitulo_05_estrutura_condicional;
 import java.util.Locale;
 import java.util.Scanner;
 
-public class exercicio_04_cap05 {
+public class Exercicio_04_cap_05 {
     public static void main(String[] args) {
 
 //      Correção: https://github.com/acenelio/nivelamento-java/blob/master/src/uri1046.java

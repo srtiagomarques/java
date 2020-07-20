@@ -3,7 +3,7 @@ package capitulo_04_estrutura_sequencial;
 import java.util.Locale;
 import java.util.Scanner;
 
-public class exercicio_03_cap04 {
+public class Exercicio_03_cap_04 {
     public static void main(String[] args) {
 
 //      Fazer um programa para ler quatro valores inteiros A, B, C e D. A seguir, calcule e mostre a diferença do produto

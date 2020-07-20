@@ -3,7 +3,7 @@ package capitulo_06_estruturas_repetitivas;
 import java.util.Locale;
 import java.util.Scanner;
 
-public class exercicio_for_06_cap_06 {
+public class Exercicio_for_06_cap_06 {
     public static void main(String[] args) {
 
 //      Correção: https://github.com/acenelio/nivelamento-java/blob/master/src/uri1157.java
