@@ -40,7 +40,7 @@ public class Exercicio_00_cap_14 {
 //                  |-----------------------------|
 //                  |      OutsourcedEmployee     |
 //                  |-----------------------------|
-//                  | - addditionalCharge : Double|
+//                  | - additionalCharge : Double |
 //                  |-----------------------------|
 
         Locale.setDefault(Locale.US);

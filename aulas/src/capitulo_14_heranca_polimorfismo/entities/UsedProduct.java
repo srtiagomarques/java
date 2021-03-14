@@ -8,14 +8,6 @@ public class UsedProduct extends Product {
 
     private Date manufactureDate;
 
-    public UsedProduct() {
-        super();
-    }
-
-    public UsedProduct(Date manufactureDate) {
-        this.manufactureDate = manufactureDate;
-    }
-
     public UsedProduct(String name, Double price, Date manufactureDate) {
         super(name, price);
         this.manufactureDate = manufactureDate;
